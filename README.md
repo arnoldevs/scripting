@@ -1,4 +1,4 @@
-# Hi
+# Scripting
 
 This repository contains basic syntax for some scripting languages, at the moment only:
 + Bash
